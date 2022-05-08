@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d16eb22bdc914c12a381aa783692105f" Name="Diagram1">
+        <EntityTypeShape EntityType="QL_Ban_SachModel.CHITIETHOADON" Width="1.5" PointX="8.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_Ban_SachModel.CHITIETPHIEUNHAP" Width="1.5" PointX="8.25" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_Ban_SachModel.HOADON" Width="1.5" PointX="11.25" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_Ban_SachModel.KHACHHANG" Width="1.5" PointX="9" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_Ban_SachModel.NXB" Width="1.5" PointX="0.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_Ban_SachModel.PHIEUNHAP" Width="1.5" PointX="3" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_Ban_SachModel.QUANLINHANVIEN" Width="1.5" PointX="9" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_Ban_SachModel.SACH" Width="1.5" PointX="6" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_Ban_SachModel.THELOAI" Width="1.5" PointX="3.75" PointY="4.125" IsExpanded="true" />
+        <AssociationConnector Association="QL_Ban_SachModel.FK__CHITIETHO__Ma_HD__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_Ban_SachModel.FK__CHITIETHOA__Ma_S__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_Ban_SachModel.fk_CTPN1" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_Ban_SachModel.fk_CTPN2" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_Ban_SachModel.fkhd_HD" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_Ban_SachModel.fkhd_kh" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_Ban_SachModel.fkhd_nv" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_Ban_SachModel.fkhd_S" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_Ban_SachModel.fk_s" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_Ban_SachModel.fkPN1_S" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_Ban_SachModel.fk_s1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

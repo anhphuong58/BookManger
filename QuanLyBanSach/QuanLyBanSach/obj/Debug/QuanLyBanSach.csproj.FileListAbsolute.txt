@@ -1,0 +1,75 @@
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojAssemblyReference.cache
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormLogin.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.cache
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CoreCompileInputs.cache
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormHome.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormAdmin.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormWarehouseManager.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormRevenue.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormBill.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormFindCustomer.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormFindStaff.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormFindProduct.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojAssemblyReference.cache
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormAdmin.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormBill.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormConfirmOrder.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormFindCustomer.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormFindProduct.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormFindStaff.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormHistory.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormHome.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormLogin.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormRevenue.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormWarehouseManager.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.cache
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CoreCompileInputs.cache
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+D:\a_study\kỳ 4\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormManagerCustomer.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\bin\Debug\EntityFramework.dll
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\bin\Debug\EntityFramework.SqlServer.dll
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\bin\Debug\EntityFramework.xml
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\bin\Debug\EntityFramework.SqlServer.xml
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CopyComplete
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.GUI.FormReceipt.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.GUI.FormCategory.resources
+D:\a_study\kỳ 4\PBL3\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.GUI.FormNXB.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojAssemblyReference.cache
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormAdmin.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormBill.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.GUI.FormCategory.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormConfirmOrder.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormFindCustomer.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormFindProduct.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormFindStaff.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormHome.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormLogin.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormManagerCustomer.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.GUI.FormNXB.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.GUI.FormReceipt.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormRevenue.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.FormWarehouseManager.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.cache
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CoreCompileInputs.cache
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\bin\Debug\EntityFramework.dll
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\bin\Debug\EntityFramework.SqlServer.dll
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\bin\Debug\EntityFramework.xml
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\bin\Debug\EntityFramework.SqlServer.xml
+D:\a_study\kỳ 4\PBL3\bản thử nghiệm\QuanLyBanSach(ThuNghiem)\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CopyComplete
