@@ -1,1 +1,1 @@
-# book-sales-management-software
+# BookManager
